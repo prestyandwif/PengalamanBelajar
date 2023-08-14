@@ -7,3 +7,4 @@ Repository Ini Berisi Pengalaman Belajarku di Bootcamp Dicoding
 * Membuat Commit
 * Mengubah Data
 * Membuat Release
+* Membuat Branch
